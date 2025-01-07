@@ -50,6 +50,7 @@ Assets/
 ## Screenshots
 ![resim](https://github.com/user-attachments/assets/13cbc92d-acb5-4f14-a842-7d1b1364b4c0)
 
+![resim](https://github.com/user-attachments/assets/16f0f131-4586-4054-8642-3051fee555d2)
 
 ## Scripts Overview
 
