@@ -18,7 +18,7 @@ This is a Unity-based game project where the player collects apples and avoids e
 
 1. Clone the repository:
  ```
-   git clone https://github.com/SavasTanriverdi/Apple-Escape.git****
+   git clone https://github.com/SavasTanriverdi/Apple-Escape.git
 ```
 2. Open the project in Unity.
 
