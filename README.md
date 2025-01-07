@@ -13,7 +13,6 @@ This is a Unity-based game project where the player collects apples and avoids e
   - [EnemyManager](#enemymanager)
   - [Enemy](#enemy)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
