@@ -73,8 +73,3 @@ The `Enemy` script controls enemy behavior, including following the player and h
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## License
-
-This project is licensed under the MIT License.
-```
