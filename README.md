@@ -48,9 +48,8 @@ Assets/
 │   ├── ZPrefab.prefab
 ```
 ## Screenshots
-![resim](https://github.com/user-attachments/assets/53ebcf3f-e98b-4b6f-a16b-9cb84980785a)
+![resim](https://github.com/user-attachments/assets/13cbc92d-acb5-4f14-a842-7d1b1364b4c0)
 
-![resim](https://github.com/user-attachments/assets/b2fb482c-4fc0-4f6b-b3b5-f9eaec974fab)
 
 ## Scripts Overview
 
