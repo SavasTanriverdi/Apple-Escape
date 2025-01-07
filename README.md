@@ -19,7 +19,7 @@ This is a Unity-based game project where the player collects apples and avoids e
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/SavasTanriverdi/game-project.git
+   git clone https://github.com/SavasTanriverdi/Apple-Escape.git****
    ```
 2. Open the project in Unity.
 
@@ -47,6 +47,10 @@ Assets/
 │   ├── Player.prefab
 │   ├── ZPrefab.prefab
 ```
+## Screenshots
+![resim](https://github.com/user-attachments/assets/53ebcf3f-e98b-4b6f-a16b-9cb84980785a)
+
+![resim](https://github.com/user-attachments/assets/b2fb482c-4fc0-4f6b-b3b5-f9eaec974fab)
 
 ## Scripts Overview
 
