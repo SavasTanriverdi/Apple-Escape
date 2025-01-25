@@ -7,6 +7,7 @@ This is a Unity-based game project where the player collects apples and avoids e
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
+- Screenshots(#screenshots)
 - [Scripts Overview](#scripts-overview)
   - [Player](#player)
   - [GameDirector](#gamedirector)
